@@ -43,21 +43,23 @@
 <a href="#">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2xj3mdohk0yoump84u1ba1m5&cover_image=false&theme=default&show_offline=false&background_color=241f31&interchange=true&bar_color=e01b24&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</a>
 
 - **Games to pass the time**
+<!--
 <p align="left">Celeste
   <br>
 <img src="celeste.jpeg" align="left">
 </p>
 
 
-<!--<p align="right">Yu-Gi-Oh</p> -->
+<p align="right">Yu-Gi-Oh</p> 
 
 <p align="center"> SoulsBorn
 <br>
   
 </p>
-
+-->
 
 - **Favorite books red**
+<!--
 <p align="left">Ender's Game
   <br>
 <img src="enders.jpeg align="left">
@@ -72,7 +74,7 @@
   <br>
 <img src="KingKillerChon.jpeg" align="center">
 </p>
-
+-->
 - **Contact Me**
 <div align="center">
 <a href="https://t.me/OscarSuaz"><img  draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
