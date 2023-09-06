@@ -43,18 +43,27 @@
 <a href="#">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2xj3mdohk0yoump84u1ba1m5&cover_image=false&theme=default&show_offline=false&background_color=241f31&interchange=true&bar_color=e01b24&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</a>
 
 - **Games to pass the time**
-<p align="left">Celeste</p>
+<p align="left">Celeste
+<img src="celeste.jpeg">
+</p>
 
-<p align="right">Yu-Gi-Oh</p>
+
+<!--<p align="right">Yu-Gi-Oh</p> -->
 
 <p align="center"> SoulsBorn</p>
 
 - **Favorite books red**
-<p align="left">Ender's Game</p>
+<p align="left">Ender's Game
+<img src="enders.jpeg
+</p>
 
-<p align="right">OMNISCIENT READER'S VIEWPOINT</p>
+<p align="right">OMNISCIENT READER'S VIEWPOINT
+<img src="orv.jpeg">
+</p>
 
-<p aligne="center">The Kingkiller Chronicle</p>
+<p aligne="center">The Kingkiller Chronicle
+<img src="KingKillerChon.jpeg">
+</p>
 
 - **Contact Me**
 <div align="center">
