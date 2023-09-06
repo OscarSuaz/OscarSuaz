@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="#">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Oscar+Suaz;Welcome!)](https://git.io/typing-svg)</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Oscar;Welcome!)](https://git.io/typing-svg)
 
 <a href="#">![](https://komarev.com/ghpvc/?username=OscarSuaz&style=flat-square&color=blueviolet)</a>
 
