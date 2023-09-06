@@ -44,25 +44,33 @@
 
 - **Games to pass the time**
 <p align="left">Celeste
-<img src="celeste.jpeg">
+  <br>
+<img src="celeste.jpeg" align="left">
 </p>
 
 
 <!--<p align="right">Yu-Gi-Oh</p> -->
 
-<p align="center"> SoulsBorn</p>
+<p align="center"> SoulsBorn
+<br>
+  
+</p>
+
 
 - **Favorite books red**
 <p align="left">Ender's Game
-<img src="enders.jpeg
+  <br>
+<img src="enders.jpeg align="left">
 </p>
 
 <p align="right">OMNISCIENT READER'S VIEWPOINT
-<img src="orv.jpeg">
+  <br>
+<img src="orv.jpeg" align="right">
 </p>
 
 <p aligne="center">The Kingkiller Chronicle
-<img src="KingKillerChon.jpeg">
+  <br>
+<img src="KingKillerChon.jpeg" align="center">
 </p>
 
 - **Contact Me**
