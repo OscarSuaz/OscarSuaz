@@ -42,7 +42,7 @@
 
 <a href="#">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2xj3mdohk0yoump84u1ba1m5&cover_image=false&theme=default&show_offline=false&background_color=241f31&interchange=true&bar_color=e01b24&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</a>
 
-- **Games to pass the time**
+<!-- **Games to pass the time**
 <!--
 <p align="left">Celeste
   <br>
@@ -56,7 +56,7 @@
 <br>
   
 </p>
--->
+
 
 - **Favorite books red**
 <!--
@@ -74,6 +74,7 @@
   <br>
 <img src="KingKillerChon.jpeg" align="center">
 </p>
+-->
 -->
 - **Contact Me**
 <div align="left">
