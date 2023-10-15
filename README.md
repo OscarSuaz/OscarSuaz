@@ -4,9 +4,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2779F7&center=true&vCenter=true&random=false&width=435&lines=Al%C3%B3!;Soy+Oscar%2C+Bienvenidos" alt="Typing SVG" /></a>
 </div>
 
-<div>
-  <h2 align="center"> ⚜️ About me ⚜️</h2>
 
+<h2 align="center"> ⚜️ About me ⚜️</h2>
 -Computer Engineer student 💻
 -currently using Debian 12 :penguin:
 -⚔️Fantasy and SciFi 🌌 enjoyer
@@ -17,7 +16,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=r2xj3mdohk0yoump84u1ba1m5&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="40%" height="40%">
 </a>
 
-<div>
+
   <h2 align="left"> 📖Knowledge📖 </h2>
 
   <p align = "center">
