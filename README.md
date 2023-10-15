@@ -7,19 +7,19 @@
 <div>
   <h2 align="center"> ⚜️ About me ⚜️</h2>
 
-  <a align="right" href="#">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2xj3mdohk0yoump84u1ba1m5&cover_image=false&theme=default&show_offline=false&background_color=241f31&interchange=true&bar_color=e01b24&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</a>
-
-<ul>
-  <li>Computer Engineer student 💻</li>
-  <li>currently using Debian 12 :penguin:</li>
-  <li>⚔️Fantasy and SciFi 🌌 enjoyer </li>
-  <li>🎶Music lover🎶</li>
-  <li>Wanting to be a cybersecurity analist 🕵🏽‍♂️</li>
-  <li>Always ready to give all I have</li>
-</ul>
-
-
-
+  <div align="right">
+    <a href="#">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2xj3mdohk0yoump84u1ba1m5&cover_image=false&theme=default&show_offline=false&background_color=241f31&interchange=true&bar_color=e01b24&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</a>
+  </div>
+  <div align="left">
+    <ul align>
+      <li>Computer Engineer student 💻</li>
+      <li>currently using Debian 12 :penguin:</li>
+      <li>⚔️Fantasy and SciFi 🌌 enjoyer </li>
+      <li>🎶Music lover🎶</li>
+      <li>Wanting to be a cybersecurity analist 🕵🏽‍♂️</li>
+      <li>Always ready to give all I have</li>
+    </ul>
+  </div>
 </div>
 
 <div>
