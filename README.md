@@ -7,6 +7,7 @@
 <div>
   <h2 align="center"> ⚜️ About me ⚜️</h2>
 
+<<<<<<< HEAD
 -Computer Engineer student 💻
 -currently using Debian 12 :penguin:
 -⚔️Fantasy and SciFi 🌌 enjoyer
@@ -16,6 +17,24 @@
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=r2xj3mdohk0yoump84u1ba1m5&redirect=true">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=r2xj3mdohk0yoump84u1ba1m5&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="40%" height="40%">
 </a>
+=======
+  <div align="right" style="position:relative;">
+    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=r2xj3mdohk0yoump84u1ba1m5&redirect=true">
+      <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=r2xj3mdohk0yoump84u1ba1m5&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="40%" height="40%">
+    </a>
+  </div>
+  <div align="left">
+    <ul align>
+      <li>Computer Engineer student 💻</li>
+      <li>currently using Debian 12 :penguin:</li>
+      <li>⚔️Fantasy and SciFi 🌌 enjoyer </li>
+      <li>🎶Music lover🎶</li>
+      <li>Wanting to be a cybersecurity analist 🕵🏽‍♂️</li>
+      <li>Always ready to give all I have</li>
+    </ul>
+  </div>
+</div>
+>>>>>>> main
 
 <div>
   <h2 align="left"> 📖Knowledge📖 </h2>
