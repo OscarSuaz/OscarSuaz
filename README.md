@@ -8,8 +8,9 @@
   <h2 align="center"> ⚜️ About me ⚜️</h2>
 
   <div align="right">
-    <h5 align="right">Lo que escucho dia a dia</h5>
-    <a href="#">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2xj3mdohk0yoump84u1ba1m5&cover_image=false&theme=default&show_offline=false&background_color=241f31&interchange=true&bar_color=e01b24&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</a>
+    <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=r2xj3mdohk0yoump84u1ba1m5&redirect=true">
+      <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=r2xj3mdohk0yoump84u1ba1m5&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
+    </a>
   </div>
   <div align="left">
     <ul align>
