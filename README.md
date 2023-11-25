@@ -8,7 +8,7 @@
 <h2 align="center"> ⚜️ About me ⚜️</h2>
 
 - Computer Engineer student 💻
-- currently using Debian 12 :penguin:
+- currently using ArchLinux :penguin:
 - ⚔️Fantasy and SciFi 🌌 enjoyer
 - 🎶Music lover🎶</li>
 - Wanting to be a cybersecurity analist 🕵🏽‍♂️
