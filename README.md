@@ -23,7 +23,7 @@
 
   <p align = "center">
     <a href="https://skillicons.dev">
-      <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,php,html,css,js,github,py,java,c,md,cpp&perline=5"alt="My Knowledge"/> 
+      <img style="margin: 10px"src="https://skillicons.dev/icons?i=bash,linux,git,php,html,css,js,github,py,java,c,md,cpp,django,mysql&perline=5"alt="My Knowledge"/> 
     </a>
   </p>
 </div>
